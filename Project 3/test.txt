@@ -1,0 +1,20 @@
+Whats the meaning of life?
+Y
+Do you wanna dance?
+N
+Question 3?
+Y
+Question 4?
+N
+QUestion 5?
+Y
+Question 6?
+Y
+Question 7?
+N
+Question 8?
+N
+Question 9?
+N
+Question 10?
+Y

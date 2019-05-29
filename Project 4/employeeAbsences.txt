@@ -1,0 +1,12 @@
+EMPLOYEE ABSENCE REPORT
+employee id   days absent
+     788         0
+    3434         0
+     990         0
+       1         0
+       9         0
+
+The 5 employees were absent a total of 0 days.
+The average number of days absent is 0 days.
+
+Programmer: Fernando Gonzales-Vigil

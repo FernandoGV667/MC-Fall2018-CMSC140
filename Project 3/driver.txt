@@ -1,0 +1,20 @@
+Can you pass a red light?
+N
+Can you drive faster than 200 mph?
+N
+Can your dog be inside the car?
+Y
+Do you need a licence to drive?
+Y
+Is the color of Go green?
+Y
+Should you accelerate in yellow light?
+N
+Can you drive in the sidewalk?
+N
+Can you park in the middle of an avenue?
+N
+Can you drive in the opposite side of the street?
+N
+Can you drive if you are 90 years old?
+Y
